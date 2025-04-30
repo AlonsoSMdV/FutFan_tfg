@@ -12,3 +12,66 @@ También se podrá ver la información de jugadores y los partidos que se jugar�
 
 > 🔍 **La documentación técnica de este proyecto se puede encontrar en [Anteproyecto](https://flowery-fenugreek-5f5.notion.site/1c492d3d1397805e924ed5688a8153c5?v=1c492d3d139780a3aa1f000c90f24a15)**
 
+## 🔗 Enlaces
+
+### 📂 Acceso a Datos
+- 🔗 **URL de la app en Netlify**: [URL Netlify](https://futmanager.netlify.app/) 
+- 💻 **Repositorio en GitHub**: [URL Repositorio de github](https://github.com/AlonsoSMdV/FootballAdminApp) 
+
+> ⚠️ El acceso debe ser público el día de la exposición o, en su defecto, añadir a los profesores como colaboradores si es privado.
+
+---
+
+### 📱 Dispositivos Móviles y Multimedia
+- 📦 **Repositorio del proyecto**: [URL Repositorio de github](https://github.com/AlonsoSMdV/FootballCompsAndoridV2)
+
+---
+
+### 📊 Sistemas de Gestión Empresarial (SGE)
+- 🐍 Se desarrollará un script en **Python** utilizando la librería **Pandas** para:
+  - Leer un archivo (CSV o JSON) con datos generados por la app.
+  - Limpiar y transformar los datos (eliminación de espacios, sustituciones, búsquedas, creación de columnas, etc.).
+  - Guardar un nuevo fichero de salida con los datos procesados.
+PENDIENTE
+
+---
+
+## 📋 Requisitos mínimos - Desarrollo de Interfaces
+
+Los criterios mínimos establecidos para este proyecto integrado en el módulo de **Desarrollo de Interfaces** son los siguientes:
+
+---
+
+### 🧪 Prototipo
+
+Se crearán dos prototipos de la aplicación:
+
+- **Prototipo básico (wireframe)**  
+  Realizado con **Balsamiq**, muestra el diseño estructural de las pantallas principales y sus elementos.
+
+- **Prototipo final (interactivo)**  
+  Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas.
+PENDIENTE
+---
+
+### 📄 Documentación
+
+- El código fuente estará correctamente comentado.
+- Cada método incluirá:
+  - Descripción funcional.
+  - Parámetros utilizados.
+  - Valores devueltos.
+- Se generará documentación automática con herramientas como **Doxygen** (o similar).
+PENDIENTE
+
+---
+
+### 📊 Informe - Power BI
+
+Se desarrollará un informe utilizando **Power BI Desktop** que incluye:
+
+- ✅ Una **tarjeta** con un valor genérico relevante de la aplicación.
+- 📊 Un **gráfico de columnas** ordenado por uno de sus valores.
+- 🥧 Un **gráfico circular** con información adicional mostrada en el tooltip.
+PENDIENTE
+
