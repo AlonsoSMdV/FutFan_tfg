@@ -14,6 +14,26 @@ También se podrá ver la información de jugadores y los partidos que se jugar�
 >
 > **Vídeo de checkpoint día 30 de abril de 2025 [Vídeo](https://www.youtube.com/watch?v=nuMjh-ZyS9c)**
 
+## 📝 **CHECKPOINT 30 DE ABRIL 2025**
+
+### 🔄 **AVANCES ACCESO A DATOS**
+* ✅ Roles de usuarios implementados
+* ✅ Páginas de gestión de usuarios, alineaciones y estadísticas funcional
+* ✅ Filtrado de equipos y jugadores según el id de liga o equipo
+* ✅ Limitacion de las funciones de borrado, modificado y creacion en diversas páginas
+* 🔜 **Próximamente:** Completar las traducciones e implementar firebase
+
+### 📱 **AVANCES ANDROID**
+* ✅ Migración semicompleta a firebase
+* ✅ CRUD(Crear, eliminar, borrar y modificar)
+* ✅ Subida de imágenes a firebase
+* 🔜 **Próximamente:** 
+  * Limitacion de funciones del CRUD por id de usuario
+  * Rediseño del estilo de la app
+  * Implementación de traduccion a inglés
+  * Adición de páginas de estadisticas y alineaciones
+
+---
 ## 🔗 Enlaces
 
 ### 📂 Acceso a Datos
