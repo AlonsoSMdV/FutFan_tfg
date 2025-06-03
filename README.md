@@ -69,7 +69,7 @@ Los criterios mínimos establecidos para este proyecto integrado en el módulo d
 Se crearán dos prototipos de la aplicación:
 
 - **Prototipo básico (wireframe)**  
-  Realizado con **Balsamiq**, muestra el diseño estructural de las pantallas principales y sus elementos.
+  Realizado con **Balsamiq**, muestra el diseño estructural de las pantallas principales y sus elementos.Aquí el [enlace](https://balsamiq.cloud/spkmujg/pe385q) (EN DESARROLLO)
 
 - **Prototipo final (interactivo)**  
   Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas.
