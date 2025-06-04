@@ -21,13 +21,13 @@ También se podrá ver la información de jugadores y los partidos que se jugar�
 * ✅ Páginas de gestión de usuarios, alineaciones y estadísticas funcional
 * ✅ Filtrado de equipos y jugadores según el id de liga o equipo
 * ✅ Limitacion de las funciones de borrado, modificado y creacion en diversas páginas
-* 🔜 **Próximamente:** Completar las traducciones e implementar firebase
+* ✅ **Próximamente:** Completar las traducciones e implementar firebase
 
 ### 📱 **AVANCES ANDROID**
 * ✅ Migración semicompleta a firebase
 * ✅ CRUD(Crear, eliminar, borrar y modificar)
 * ✅ Subida de imágenes a firebase
-* 🔜 **Próximamente:** 
+* ✅ **Próximamente:** 
   * Limitacion de funciones del CRUD por id de usuario
   * Rediseño del estilo de la app
   * Implementación de traduccion a inglés
@@ -69,7 +69,7 @@ Los criterios mínimos establecidos para este proyecto integrado en el módulo d
 Se crearán dos prototipos de la aplicación:
 
 - **Prototipo básico (wireframe)**  
-  Realizado con **Balsamiq**, muestra el diseño estructural de las pantallas principales y sus elementos.Aquí el [enlace](https://balsamiq.cloud/spkmujg/pe385q) (EN DESARROLLO)
+  Realizado con **Balsamiq**, muestra el diseño estructural de las pantallas principales y sus elementos. Aquí el [enlace](https://balsamiq.cloud/spkmujg/pe385q) (FINALIZADO)
 
 - **Prototipo final (interactivo)**  
   Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas.
