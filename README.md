@@ -72,8 +72,7 @@ Se crearán dos prototipos de la aplicación:
   Realizado con **Balsamiq**, muestra el diseño estructural de las pantallas principales y sus elementos. Aquí el [enlace](https://balsamiq.cloud/spkmujg/pe385q) (FINALIZADO)
 
 - **Prototipo final (interactivo)**  
-  Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas.
-PENDIENTE
+  Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas. (EN DESARROLLO)
 ---
 
 ### 📄 Documentación
