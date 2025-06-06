@@ -72,7 +72,10 @@ Se crearán dos prototipos de la aplicación:
   Realizado con **Balsamiq**, muestra el diseño estructural de las pantallas principales y sus elementos. Aquí el [enlace](https://balsamiq.cloud/spkmujg/pe385q) (FINALIZADO)
 
 - **Prototipo final (interactivo)**  
-  Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas. (EN DESARROLLO)
+  Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas.
+  -- [Android-Dev Mode](https://www.figma.com/design/ewWBJkvFMRjWCNjzLNZfMV/Android-design?node-id=0-1&m=dev&t=cOlhQLUL4vIuqfy1-1)
+  --[Android- Prototype Link](https://www.figma.com/proto/ewWBJkvFMRjWCNjzLNZfMV/Android-design?node-id=0-1&t=cOlhQLUL4vIuqfy1-1)
+  --ANGULAR EN DESARROLLO
 ---
 
 ### 📄 Documentación
