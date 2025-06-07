@@ -75,7 +75,8 @@ Se crearán dos prototipos de la aplicación:
   Desarrollado en **Figma**, basado en el boceto inicial. Refleja la apariencia final y funcionalidad de la app, con interacción entre pantallas.
   - [Android-Dev Mode](https://www.figma.com/design/ewWBJkvFMRjWCNjzLNZfMV/Android-design?node-id=0-1&m=dev&t=cOlhQLUL4vIuqfy1-1)
   - [Android- Prototype Link](https://www.figma.com/proto/ewWBJkvFMRjWCNjzLNZfMV/Android-design?node-id=0-1&t=cOlhQLUL4vIuqfy1-1)
-  - ANGULAR EN DESARROLLO
+  - [Angular-Dev Mode](https://www.figma.com/design/1R9hkcf7a3iBkddofD0cpC/Angular-design?node-id=0-1&m=dev&t=fwxZ50XSH6kcMbCU-1)
+  - [Angular- Prototype Link](https://www.figma.com/proto/1R9hkcf7a3iBkddofD0cpC/Angular-design?node-id=0-1&t=fwxZ50XSH6kcMbCU-1) (NECESARIO PANTALLA COMPLETA / F11)
 ---
 
 ### 📄 Documentación
