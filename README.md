@@ -81,13 +81,9 @@ Se crearán dos prototipos de la aplicación:
 
 ### 📄 Documentación
 
-- El código fuente estará correctamente comentado.
-- Cada método incluirá:
-  - Descripción funcional.
-  - Parámetros utilizados.
-  - Valores devueltos.
-- Se generará documentación automática con herramientas como **Doxygen** (o similar).
-PENDIENTE
+- Se han usado dos herramientas distintas para cada app las cuales son dokka y compodoc
+  - [Documentación android](https://github.com/AlonsoSMdV/FootballCompsAndoridV2/releases/tag/Documentation)
+  - Documentación angular](https://github.com/AlonsoSMdV/FootballAdminApp/releases/tag/Documentation)
 
 ---
 
