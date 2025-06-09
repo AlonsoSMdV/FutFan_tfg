@@ -83,7 +83,7 @@ Se crearán dos prototipos de la aplicación:
 
 - Se han usado dos herramientas distintas para cada app las cuales son dokka y compodoc
   - [Documentación android](https://github.com/AlonsoSMdV/FootballCompsAndoridV2/releases/tag/Documentation)
-  - Documentación angular](https://github.com/AlonsoSMdV/FootballAdminApp/releases/tag/Documentation)
+  - [Documentación angular](https://github.com/AlonsoSMdV/FootballAdminApp/releases/tag/Documentation)
 
 ---
 
@@ -94,5 +94,5 @@ Se desarrollará un informe utilizando **Power BI Desktop** que incluye:
 - ✅ Una **tarjeta** con un valor genérico relevante de la aplicación.
 - 📊 Un **gráfico de columnas** ordenado por uno de sus valores.
 - 🥧 Un **gráfico circular** con información adicional mostrada en el tooltip.
-PENDIENTE
+  - [Informe](https://github.com/AlonsoSMdV/FutFan_tfg/releases/tag/Informe)
 
