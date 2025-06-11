@@ -54,7 +54,7 @@ También se podrá ver la información de jugadores y los partidos que se jugar�
   - Leer un archivo (CSV o JSON) con datos generados por la app.
   - Limpiar y transformar los datos (eliminación de espacios, sustituciones, búsquedas, creación de columnas, etc.).
   - Guardar un nuevo fichero de salida con los datos procesados.
-PENDIENTE
+    - [Script Pandas](https://github.com/AlonsoSMdV/FutFan_tfg/releases/tag/Pandas)
 
 ---
 
