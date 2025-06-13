@@ -45,6 +45,7 @@ También se podrá ver la información de jugadores y los partidos que se jugar�
 ---
 
 ### 📱 Dispositivos Móviles y Multimedia
+- 📦 **APK del proyecto** [aquí](https://github.com/AlonsoSMdV/FootballCompsAndoridV2/releases/tag/APK)
 - 📦 **Repositorio del proyecto**: [URL Repositorio de github](https://github.com/AlonsoSMdV/FootballCompsAndoridV2)
 
 ---
