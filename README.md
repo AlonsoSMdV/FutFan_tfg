@@ -15,6 +15,8 @@ También se podrá ver la información de jugadores y los partidos que se jugar�
 > **Vídeo de checkpoint día 30 de abril de 2025 [Vídeo](https://www.youtube.com/watch?v=nuMjh-ZyS9c)**
 >
 > **VÍdeo de presentación y exposición del TFG [Aquí](https://www.youtube.com/watch?v=Zp0Lvi_JvQ4)**
+>
+> **PDF con la presentación del TFG [aquí](https://github.com/AlonsoSMdV/FutFan_tfg/releases/tag/PDF)**
 
 ## 📝 **CHECKPOINT 30 DE ABRIL 2025**
 
