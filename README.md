@@ -20,6 +20,8 @@
 > 📽️ **VÍdeo de presentación y exposición del TFG [Aquí](https://www.youtube.com/watch?v=Zp0Lvi_JvQ4)**
 >
 > 📄 **PDF con la presentación del TFG [aquí](https://github.com/AlonsoSMdV/FutFan_tfg/releases/tag/PDF)**
+>
+> 📄 **PDF con el histórico de cambios de las apps [aquí](https://github.com/AlonsoSMdV/FutFan_tfg/releases/tag/Historico_de_cambios)**
 
 ## 📝 **CHECKPOINT 30 DE ABRIL 2025**
 
